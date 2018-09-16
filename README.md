@@ -1,3 +1,6 @@
+![Tellescope Logo](https://raw.githubusercontent.com/davdhng/tellescope/master/assets/logo.png)
+
+
 # Tellescope: A Messaging Interaction Model for Product Discovery
 
 Kathryn Britt, David Huang, Jacob Hutchison, Jack Oh, James Oh
