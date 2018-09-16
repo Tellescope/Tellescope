@@ -1,4 +1,4 @@
-#Tellescope: A Messaging Interaction Model for Product Discovery
+# Tellescope: A Messaging Interaction Model for Product Discovery
 
 Kathryn Britt, David Huang, Jacob Hutchison, Jack Oh, James Oh
 
@@ -6,7 +6,7 @@ Kathryn Britt, David Huang, Jacob Hutchison, Jack Oh, James Oh
 
 
 
-##1. Abstract
+## 1. Abstract
 Shoppers often have a hard time finding products in stores. Although e-commerce has streamlined the shopping process, customers will still shop at physical brick-and-mortar stores for immediacy and impulse reasons, or to inspect and assess product quality. Conventional retail and grocery stores deliberately structure their aisles to maximize the amount of time a customer spends inside the store, which discourages the immediacy/impulse shoppers when a particular item cannot be located. Tellescope is our proposed solution that seeks to provide a convenient experience for immediacy/impulse shoppers while remaining unobtrusive for regular customers. 
 
 Tellescope consists of  a facial sentiment analysis system based on human shopping patterns and a mobile chatbot to facilitate brand interaction while remaining fast and intuitive. The interaction model and sentiment analysis system are designed in this project. Demonstrations and simulations will be presented. 
