@@ -11,10 +11,10 @@ Tellescope is a facial sentiment analysis IoT system designed for modern retail 
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]
 
 ### Here's what it looks like
-![Tellescope render](https://raw.githubusercontent.com/davdhng/tellescope/master/assets/BBack.png)
+![Tellescope render](https://raw.githubusercontent.com/davdhng/tellescope/master/assets/images/BBack.png)
 
 ### How it works
-![Tellescope flowchart](https://raw.githubusercontent.com/davdhng/tellescope/master/assets/flowchart.png)
+![Tellescope flowchart](https://raw.githubusercontent.com/davdhng/tellescope/master/assets/images/flowchart.png)
 
 
 ### Built with
