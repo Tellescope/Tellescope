@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/logo.png" alt="Tellescope Logo">
+    <img src="assets/images/logo.png" alt="Tellescope Logo">
 </p>
 
 # Tellescope: A Messaging Interaction Model for Product Discovery

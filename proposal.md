@@ -1,4 +1,4 @@
-![Tellescope Logo](https://raw.githubusercontent.com/davdhng/tellescope/master/assets/logo.png)
+![Tellescope Logo](https://raw.githubusercontent.com/davdhng/tellescope/master/assets/images/logo.png)
 
 
 # Tellescope: A Messaging Interaction Model for Product Discovery
