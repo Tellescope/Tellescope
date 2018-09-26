@@ -22,7 +22,7 @@ To learn more, [read the proposal](https://github.com/Tellescope/Tellescope/blob
 Tellescope is designed to be very easy to build. There is no need to solder anything or cut any wires. You just need to be able to order things online.
 The total cost should be less than $100. 
 
-1. Find the housing in case/PiChassis.stl and 3d print it. You can upload it to <https://www.shapeways.com/>and order it from there if you don't have a 3d printer.
+1. Find the housing in `case/PiChassis.stl` and 3d print it. You can upload it to <https://www.shapeways.com/>and order it from there if you don't have a 3d printer.
 2. You can order the Pi and Camera Board from anywhere you like. Just get whatever's cheapest.
 3. The Pi fits into the housing sideways, like you would insert a book into a shelf. Make sure the ports are facing outward. The camera wraps around the pi onto the front of the side of the Pi, so that it lines up with the hole in the case.
 4. Load `tellescope.py` into your Pi. There's one last adjustment to make before Tellescope is fully operational.
