@@ -53,7 +53,8 @@ def showScreenAndDectect(capture):
             index = np.argmax(result)
             print (emo[index], 'prob:', max(result))
             if emo[index] in negative_emo:
-                os.system('sudo PyBeacon -u "https://bit.ly/2HAg3CG"')
+                # THIS IS PRETTY IMPORTANT
+                os.system('sudo PyBeacon -u "ENTER YOUR CHATBOT LINK HERE"')
                 t.sleep(5)
                 os.system('sudo PyBeacon -t')
             # print(face_img.shape)
